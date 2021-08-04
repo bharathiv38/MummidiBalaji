@@ -1,6 +1,6 @@
 ### Hi there, I'm Balaji 👋
 
-[![Website](https://1.bp.blogspot.com/-cV9eGaTFkZ8/YQpzFvlxnWI/AAAAAAAAAB0/dCkkuc235KkuC8egTSUBosIg6Pu-Mdh-wCLcBGAsYHQ/w200-h113/CB.png)](https://balajimummidi.github.io/)
+[![Website](https://1.bp.blogspot.com/-drDBB6xzPwY/YQpz1joMMHI/AAAAAAAAAB8/iw4648Q0znEwE6NUoSrNUPhg-JWJm6ZGwCLcBGAsYHQ/s320/CCBB.png)](https://balajimummidi.github.io/)
 
 ## I'm a Designer, Developer, Aspiring Data Scientist and Fast Learner!!
 
