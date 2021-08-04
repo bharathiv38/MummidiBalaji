@@ -14,8 +14,8 @@
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://1.bp.blogspot.com/-OELF3dPTA9I/YQp4Z9INeFI/AAAAAAAAACU/MSkWyRP9hQYRal-8ZZIS8MCtJwBFPmFWwCLcBGAsYHQ/s320/2560px-YouTube_full-color_icon_%25282017%2529.svg.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://toppng.com/uploads/preview/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" />][instagram]
 
 <br />
 
