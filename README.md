@@ -1,14 +1,14 @@
 ### Hi there, I'm Balaji 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://balajimummidi.github.io/)
+[![Website](https://1.bp.blogspot.com/-kmDiMpqFRxA/YQptoQFL08I/AAAAAAAAABg/IvnrGpKc5dQo0RULUTDpCriu5QD77hfqwCLcBGAsYHQ/s320/Untitled-1.png)](https://balajimummidi.github.io/)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Designer, Developer, Aspiring Data Scientist and Fast Learner!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I just launched my personal website: [![Website](https://1.bp.blogspot.com/-kmDiMpqFRxA/YQptoQFL08I/AAAAAAAAABg/IvnrGpKc5dQo0RULUTDpCriu5QD77hfqwCLcBGAsYHQ/s320/Untitled-1.png)](https://balajimummidi.github.io/)
+- 🌱 I’m currently learning Data Science 😁
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to code!😊
 
 ### Connect with me:
 
