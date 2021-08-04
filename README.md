@@ -15,7 +15,7 @@
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://1.bp.blogspot.com/-dprRK4QOFeM/YQqAMA2YDLI/AAAAAAAAACk/JkbTbvsTmOkq_0wiUbaYLCFg8zgr-7-3wCLcBGAsYHQ/s2048/2560px-YouTube_full-color_icon_%25282017%2529.svg.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://1.bp.blogspot.com/-RfiSudTf-Qc/YQqANR8vBTI/AAAAAAAAACo/_t_AUy422AQd71MiwA4-UYkq4IvxLBg6gCLcBGAsYHQ/s0/twitter-icon-circle-blue-logo-0902F48837-seeklogo.com.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://1.bp.blogspot.com/-XJ8p2_-xCHQ/YQqAMfVzfnI/AAAAAAAAACg/8_-kZSOXLS8avOuGImqTgJgjv-4IBr7GgCLcBGAsYHQ/w361-h220/LinkedIn.jpg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://1.bp.blogspot.com/-Lx5cZPEQBPQ/YQqBfdVVb7I/AAAAAAAAAC8/I1xkNJQsQYcB34TeboCmQU2_yQvoEQaZwCLcBGAsYHQ/s320/official-linkedin-icon-png-16.jpg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://1.bp.blogspot.com/-uTRpQBjSZmQ/YQqAMf8LFoI/AAAAAAAAACc/8_0O5P3t204U_7FRn41lQ13v1Q5pG4iKQCLcBGAsYHQ/s320/1-13590_instagram-logo-insta-logo-png-transparent-background-clipart.png" />][instagram]
 
 <br />
