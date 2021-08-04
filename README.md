@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="PYTHON" width="26px" src="https://1.bp.blogspot.com/-otjvQwyC6ho/YQqHPNoqpqI/AAAAAAAAADM/JgNXNuYMSZ48C6prtcJvejlOTGBfL088wCLcBGAsYHQ/s320/2048px-Python-logo-notext.svg.png" />]
+[<img align="left" alt="PYTHON" width="26px" src="https://1.bp.blogspot.com/-otjvQwyC6ho/YQqHPNoqpqI/AAAAAAAAADM/JgNXNuYMSZ48C6prtcJvejlOTGBfL088wCLcBGAsYHQ/s320/2048px-Python-logo-notext.svg.png" />][WEBPLAY]
 [<img align="left" alt="JUPYTER_NOTEBOOK" width="26px" src="https://1.bp.blogspot.com/-5mW5WIDVM8E/YQqH-kYzz7I/AAAAAAAAADU/0My-_IUAVrEYcEj-vAK6KsjJQ2iaOA_qQCLcBGAsYHQ/s320/1200px-Jupyter_logo.svg.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
@@ -72,6 +72,7 @@
 
 </details>
 
+[WEBPLAY]: HTTPS://WWW.GOOGLE.COM
 [twitter]: https://twitter.com/balajimummidi
 [youtube]: https://www.youtube.com/channel/UCvxIRi1jlNL98M9NOXQyd4w
 [instagram]: https://www.instagram.com/balajiprince99/
