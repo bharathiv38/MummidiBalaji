@@ -6,8 +6,8 @@
 
 - 🔭 I just launched my personal website: [Career Build]
 - 🌱 I’m currently learning Data Science 😁
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking for a transition into Data Science field 😇
+- 🥅 2021 Goals: To get placed as a Data Analyst/Engineer/Scientist
 - ⚡ Fun fact: I love to code!😊
 
 ### Connect with me:
