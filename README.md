@@ -30,7 +30,7 @@
 [<img align="left" alt="ILLUSTRATOR" width="26px" src="https://1.bp.blogspot.com/-NMYSMYhAJpQ/YQqICIlrWLI/AAAAAAAAADk/nNjDbLPygw0llz4huSUn-HtqPPSlB7LMwCLcBGAsYHQ/s320/492px-Illustrator_CC_icon.png" />]
 [<img align="left" alt="POWERPOINT" width="26px" src="https://1.bp.blogspot.com/-CXqqN6tZZ6s/YQqH-uDgflI/AAAAAAAAADY/p_UapcfmfZwrVwxvaxV74K93uWrk7WizQCLcBGAsYHQ/s320/Microsoft_PowerPoint_2013-2019_logo.svg.png" />]
 [<img align="left" alt="EXCEL" width="26px" src="https://1.bp.blogspot.com/-o5TZ4-eJFZE/YQqH-qCKFEI/AAAAAAAAADc/50uBhUfyhIYqoTOSTU_KIXKRTOMTDve7wCLcBGAsYHQ/s320/Microsoft_Excel_2013-2019_logo.svg.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
+
 <br />
 <br />
 
