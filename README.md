@@ -72,7 +72,7 @@
 
 </details>
 
-[WEBPLAY]: HTTPS://WWW.GOOGLE.COM
+[WEBPLAY]: 
 [twitter]: https://twitter.com/balajimummidi
 [youtube]: https://www.youtube.com/channel/UCvxIRi1jlNL98M9NOXQyd4w
 [instagram]: https://www.instagram.com/balajiprince99/
