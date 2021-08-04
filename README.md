@@ -4,11 +4,11 @@
 
 ## I'm a Designer, Developer, Aspiring Data Scientist and Fast Learner!!
 
-- 🔭 I just launched my personal website: [Career Build]
-- 🌱 I’m currently learning Data Science 😁
+- 🔭 I just launched my personal website on Github: [Career Build]
+- 🌱 I’m currently a Data Science trainee at Innomatics Research Labs 😊
 - 👯 I’m looking for a transition into Data Science field 😇
 - 🥅 2021 Goals: To get placed as a Data Analyst/Engineer/Scientist
-- ⚡ Fun fact: I love to code!😊
+- ⚡ Fun fact: I love to code!😁
 
 ### Connect with me:
 
