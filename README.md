@@ -4,7 +4,7 @@
 
 ## I'm a Designer, Developer, Aspiring Data Scientist and Fast Learner!!
 
-- 🔭 I just launched my personal website: [![Website](https://1.bp.blogspot.com/-kmDiMpqFRxA/YQptoQFL08I/AAAAAAAAABg/IvnrGpKc5dQo0RULUTDpCriu5QD77hfqwCLcBGAsYHQ/s320/Untitled-1.png)](https://balajimummidi.github.io/)
+- 🔭 I just launched my personal website: [Career Build]
 - 🌱 I’m currently learning Data Science 😁
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
