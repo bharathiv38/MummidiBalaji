@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://1.bp.blogspot.com/-dprRK4QOFeM/YQqAMA2YDLI/AAAAAAAAACk/JkbTbvsTmOkq_0wiUbaYLCFg8zgr-7-3wCLcBGAsYHQ/s2048/2560px-YouTube_full-color_icon_%25282017%2529.svg.png" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://1.bp.blogspot.com/-RfiSudTf-Qc/YQqANR8vBTI/AAAAAAAAACo/_t_AUy422AQd71MiwA4-UYkq4IvxLBg6gCLcBGAsYHQ/s0/twitter-icon-circle-blue-logo-0902F48837-seeklogo.com.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://1.bp.blogspot.com/-XJ8p2_-xCHQ/YQqAMfVzfnI/AAAAAAAAACg/8_-kZSOXLS8avOuGImqTgJgjv-4IBr7GgCLcBGAsYHQ/s320/LinkedIn.jpg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://1.bp.blogspot.com/-uTRpQBjSZmQ/YQqAMf8LFoI/AAAAAAAAACc/8_0O5P3t204U_7FRn41lQ13v1Q5pG4iKQCLcBGAsYHQ/s320/1-13590_instagram-logo-insta-logo-png-transparent-background-clipart.png" />][instagram]
 
 <br />
 
@@ -43,18 +43,6 @@
 <br />
 
 ---
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [⭐ BONUS: STACKr News Shorts - 5 Things Better in Svelte than React](https://www.youtube.com/watch?v=I-8aVr7vnlA)
-- [Bootcamp Graduate Advice 💪, Who's the CSS King? 👑, GitHub Copilot 🤖 // STACKr News Weekly - Issue 5](https://www.youtube.com/watch?v=F6KzVOrhEXw)
-- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋](https://www.youtube.com/watch?v=vHZPeohPHqo)
-- [STACKr News Shorts - Issue 4 - Syntax.fm Potluck](https://www.youtube.com/watch?v=x8HNcal4fw0)
-- [VS Code has Browser Dev Tools and Built-in JavaScript Debugging!!](https://www.youtube.com/watch?v=Uf44SDEl1HM)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
@@ -92,7 +80,6 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/balajimummidi
 [youtube]: https://www.youtube.com/channel/UCvxIRi1jlNL98M9NOXQyd4w
