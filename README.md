@@ -2,7 +2,7 @@
 
 [![Website](https://1.bp.blogspot.com/-yZB-7JlYqeA/YQp1qV8FGaI/AAAAAAAAACM/w841A3w2YLw3q3kKun4DnChtGQYrs3j4QCLcBGAsYHQ/s16000/wda.png)](https://balajimummidi.github.io/)
 
-## I'm a Designer, Developer, Aspiring Data Scientist and Fast Learner!!
+## I'm a Data Scientist Enthusiast and Fast Learner!!
 
 - 🔭 I just launched my personal website on Github: [Career Build]
 - 🌱 I’m currently a Data Science trainee at FlipRobo 😊
