@@ -1,13 +1,13 @@
-### Hi there, I'm Balaji 👋
+### Hi there, I'm Bharathi 👋
 
 [![Website](https://1.bp.blogspot.com/-yZB-7JlYqeA/YQp1qV8FGaI/AAAAAAAAACM/w841A3w2YLw3q3kKun4DnChtGQYrs3j4QCLcBGAsYHQ/s16000/wda.png)](https://balajimummidi.github.io/)
 
 ## I'm a Designer, Developer, Aspiring Data Scientist and Fast Learner!!
 
 - 🔭 I just launched my personal website on Github: [Career Build]
-- 🌱 I’m currently a Data Science trainee at Innomatics Research Labs 😊
+- 🌱 I’m currently a Data Science trainee at FlipRobo 😊
 - 👯 I’m looking for a transition into Data Science field 😇
-- 🥅 2021 Goals: To get placed as a Data Analyst/Engineer/Scientist
+- 🥅 2022 Goals: To get placed as a Data Analyst/Engineer/Scientist
 - ⚡ Fun fact: I love to code!😁
 
 ### Connect with me:
@@ -39,17 +39,5 @@
 
 
 
-[twitter]: https://twitter.com/balajimummidi
-[youtube]: https://www.youtube.com/channel/UCvxIRi1jlNL98M9NOXQyd4w
-[instagram]: https://www.instagram.com/balajiprince99/
-[linkedin]: https://www.linkedin.com/in/balaji-mummidi-21018a143/
-[PYTHON]: https://www.python.org/
-[JUPYTERNOTEBOOK]: https://jupyter.org/
-[HTML]: https://html.com/
-[CSS]: https://www.w3schools.com/css/
-[PHOTOSHOP]: https://www.photoshop.com/en
-[ILLUSTRATOR]: https://www.adobe.com/in/products/illustrator.html
-[POWERPOINT]: https://office.live.com/start/powerpoint.aspx
-[EXCEL]: https://office.live.com/start/excel.aspx
-[GITHUB]: https://github.com/
+
 
